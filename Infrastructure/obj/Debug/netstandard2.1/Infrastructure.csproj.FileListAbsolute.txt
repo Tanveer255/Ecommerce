@@ -8,6 +8,7 @@ D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructur
 D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
 D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
 D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.sourcelink.json
 D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastr.15EFFBFE.Up2Date
 D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
 D:\DevEnvirnment\Ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

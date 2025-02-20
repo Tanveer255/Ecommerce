@@ -6,5 +6,6 @@ D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEd
 D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
 D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
 D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.sourcelink.json
 D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.dll
 D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.pdb
