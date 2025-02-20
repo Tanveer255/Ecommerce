@@ -1,4 +1,4 @@
-![.NET Core](https://github.com/rahulsahay19/eCommerce-App/workflows/.NET%20Core/badge.svg?branch=master)
+![.NET Core](https://github.com/Tanveer255/Ecommerce)
 
 # Ecommerce App using ASP.NET Core and Angular
 
@@ -6,8 +6,7 @@
 Hi Friends,
 
 During this lock-down period; I spent some time writing one full stack project using ASP.NET Core and Angular 9 with other best practices as explained below. I hope you like it.
-Demo Link:- https://sports-center.azurewebsites.net/
-Git Link:- https://github.com/rahulsahay19/eCommerce-App
+Git Link:- https://github.com/Tanveer255/Ecommerce
 
 ## Introduction
 In this section, you will learn how to build full fledged Ecommerce app using asp.net core and angular 9. Below are the key takeaways from this project. Anyone who wants to learn and write professional enterpise projects can refer this project. This project not only illustrates how to implement all layers to the point rather it adheres to best practices as followed by industry.
@@ -134,38 +133,3 @@ Currently this project is not mobile friendly as I didn't get time to make it mo
 ## PR and Comments
 
 I am open for extension of this project. Incase, if anyone wants to extend any feature, you can submit PR.
-
-## Stripe Test Cards
-
-You can also follow docs here https://stripe.com/docs/testing
-
-![13th](https://user-images.githubusercontent.com/3886381/80680373-3f708b80-8adc-11ea-9fa6-f9cf557c96a1.png)
-
-## Glimpse of the working solution
-
-Demo Link:- https://sports-center.azurewebsites.net/
-
-![1st](https://user-images.githubusercontent.com/3886381/80680036-b35e6400-8adb-11ea-8dc4-94ca34a1c222.png)
-
-![2nd](https://user-images.githubusercontent.com/3886381/80680044-b5c0be00-8adb-11ea-8ea7-9d0e4318bbf6.png)
-
-![3rd](https://user-images.githubusercontent.com/3886381/80680050-b6f1eb00-8adb-11ea-8d47-a5d4f09fa7d2.png)
-
-![4th](https://user-images.githubusercontent.com/3886381/80680053-b8231800-8adb-11ea-8be7-e0e3dba71dca.png)
-
-![5th](https://user-images.githubusercontent.com/3886381/80680054-b8bbae80-8adb-11ea-95a2-5ec5e611691b.png)
-
-![6th](https://user-images.githubusercontent.com/3886381/80680056-b8bbae80-8adb-11ea-83e8-52e552842f97.png)
-
-![7th](https://user-images.githubusercontent.com/3886381/80680058-b9544500-8adb-11ea-8b6c-e4b274e65a9d.png)
-
-![8th](https://user-images.githubusercontent.com/3886381/80680060-b9ecdb80-8adb-11ea-9420-336fe8f76c12.png)
-
-![9th](https://user-images.githubusercontent.com/3886381/80680061-ba857200-8adb-11ea-9a2b-6a221e687a7d.png)
-
-![10th](https://user-images.githubusercontent.com/3886381/80680062-bb1e0880-8adb-11ea-9592-66c677b63702.png)
-
-![11th](https://user-images.githubusercontent.com/3886381/80680064-bb1e0880-8adb-11ea-963a-7a591aef9759.png)
-
-![12th](https://user-images.githubusercontent.com/3886381/80680067-bbb69f00-8adb-11ea-90c3-8682349cac0e.png)
-
