@@ -1,0 +1,10 @@
+D:\DevEnvirnment\Ecommerce\Core\bin\Debug\netstandard2.1\Core.deps.json
+D:\DevEnvirnment\Ecommerce\Core\bin\Debug\netstandard2.1\Core.dll
+D:\DevEnvirnment\Ecommerce\Core\bin\Debug\netstandard2.1\Core.pdb
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.dll
+D:\DevEnvirnment\Ecommerce\Core\obj\Debug\netstandard2.1\Core.pdb
